@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "874814021160",
+    "project_id": "betty-k2c",
+    "storage_bucket": "betty-k2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874814021160:android:02eb3f908fc03a171e1f1d",
+        "android_client_info": {
+          "package_name": "com.kick2cloud.betty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874814021160-eajrc4c0fsplgao9vpchmdo019g43na9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHjbvEAX6-pEXjCKVA4mxTfPnNPiIgN3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874814021160-eajrc4c0fsplgao9vpchmdo019g43na9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "874814021160-vbdqduuukg7n8jep2vts30anjod5hcjp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kick2cloud.betty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
